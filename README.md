@@ -1,10 +1,5 @@
 # Hola 👋, soy Julian
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=julianconti7&label=visitas&color=0e75b6&style=flat" alt="visitas" />
-  <a href="https://github.com/julianconti7"><img src="https://img.shields.io/github/followers/julianconti7?label=Seguir&style=social" alt="seguidores" /></a>
-</p>
-
 ## ⭐ Sobre mí
 
 Soy estudiante de 3er año de la **Licenciatura en Gestión de Tecnología de la Información** en **UADE** 🇦🇷. Me gusta aprender, construir proyectos y combinar la tecnología con el mundo de los negocios.
