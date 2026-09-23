@@ -7,8 +7,6 @@
 
 ## ⭐ Sobre mí
 
-<img align="right" width="280" src="URL_DE_TU_GIF" alt="gif" />
-
 Soy estudiante de 3er año de la **Licenciatura en Gestión de Tecnología de la Información** en **UADE** 🇦🇷. Me gusta aprender, construir proyectos y combinar la tecnología con el mundo de los negocios.
 
 - 💼 Trabajo en **Morashop**, en ventas y atención al cliente en Mercado Libre
